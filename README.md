@@ -5,6 +5,10 @@
 ## [Qiskit](https://qiskit.org/) 
 * https://github.com/Qiskit
 * 
+
+## [AIDE-QC: Software Stack for Quantum-Classical Computing](https://aide-qc.github.io/deploy/)
+* https://github.com/aide-qc
+
 ## [Oak Ridge National Laboratory Quantum Computing Institute](https://quantum.ornl.gov/)
 * https://quantum.ornl.gov/
 * https://github.com/ORNL-QCI
