@@ -1,6 +1,11 @@
 # Quantum Virtual Machine
 
-## Oak Ridge National Laboratory Quantum Computing Institute
+## [Pennylane](https://pennylane.ai/)
+
+## [Qiskit](https://qiskit.org/) 
+* https://github.com/Qiskit
+* 
+## [Oak Ridge National Laboratory Quantum Computing Institute](https://quantum.ornl.gov/)
 * https://quantum.ornl.gov/
 * https://github.com/ORNL-QCI
 * [Language and Hardware Independent Quantum Programming Framework](https://github.com/eclipse/xacc)
